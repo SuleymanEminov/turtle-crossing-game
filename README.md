@@ -3,7 +3,7 @@ Crossing game with turtle.
 
 INSTRUCTIONS:
 
-W or Up keys - move turtle up
+W and Up keys - move turtle up
 
 
 
